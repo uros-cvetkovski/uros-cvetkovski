@@ -43,6 +43,7 @@ IT Student | Serbia
 | Project | Description | Technologies |
 |---------|-------------|--------------|
 | [auto-skola](https://github.com/uros-cvetkovski/auto-skola) | Desktop application for driving school management | Python, CustomTkinter, SQLite |
+| [packet-analyzer](https://github.com/uros-cvetkovski/packet-analyzer) | Real-time network packet analyzer with web dashboard | Python, Scapy, Flask, pandas |
 
 ---
 
